@@ -187,7 +187,7 @@ function NavBar() {
             <li className="nav-item">
               <NavLink
                 exact
-                to="https://www.noxonfx-platform.com"
+                to="https://frontend-iota-sepia.vercel.app/"
                 activeClassName="active"
                 className="nav-links"
                 onClick={handleClick}
